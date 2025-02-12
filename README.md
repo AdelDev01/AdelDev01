@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a Computer Science student at the University of Messina. 🔭
+I'm currently developing my thesis on Machine Learning. 🌱
+
 <!--
 **AdelDev01/AdelDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
